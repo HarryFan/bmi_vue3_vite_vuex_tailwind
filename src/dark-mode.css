@@ -1,0 +1,29 @@
+/* dark-mode.css */
+
+/* 暗色模式下的全局背景和文字顏色 */
+/* .dark {
+    --tw-bg-opacity: 1;
+    background-color: rgba(17, 24, 39, var(--tw-bg-opacity));
+    color: rgba(255, 255, 255, 0.87); 
+  }
+   */
+  /* 暗色模式下的 .card 樣式調整 */
+  /* .dark .card {
+    background-color: #1F2933; 
+    border: 1px solid #2D3A4D; 
+    color: #CBD2D9; 
+    border-radius: 4px; 
+  }
+   */
+  /* 其他元素樣式的建議繼續保持一致性和可讀性 */
+  /* .dark .button {
+    background-color: #3B82F6; 
+    color: #FFFFFF; 
+    border-color: #2563EB; 
+  }
+  
+  .dark .header {
+    background-color: #1A202C; 
+    color: #A0AEC0; 
+  }
+   */
